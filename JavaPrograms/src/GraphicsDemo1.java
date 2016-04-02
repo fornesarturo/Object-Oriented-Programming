@@ -1,6 +1,7 @@
 import java.awt.*;
 import javax.swing.JFrame;
 
+@SuppressWarnings("serial")
 public class GraphicsDemo1 extends Canvas {
 	public void paint(Graphics g){
 		//Rectangle and Oval
