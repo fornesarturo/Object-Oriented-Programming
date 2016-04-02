@@ -15,7 +15,7 @@ public class GraphicsDemo1 extends Canvas {
 		
 		//On screen text
 		g.setColor(Color.black);
-		g.drawString("Hello, world", 200, 190);
+		g.drawString("Hello, world!", 200, 190);
 	}
 	
 	public static void main(String[] args){
